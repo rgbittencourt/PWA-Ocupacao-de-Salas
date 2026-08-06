@@ -39,6 +39,10 @@ pnpm run build
 
 Ao incluir ou substituir uma agenda, atualize o backend Google, confirme o fuso horário e teste eventos simultâneos e eventos de dia inteiro.
 
+## Acervo complementar
+
+Os manuais, capturas, ícones e o pack oficial preservados em `1. Projetos` estão catalogados em [`docs/acervo-google-drive.md`](docs/acervo-google-drive.md).
+
 ## Licença
 
 Projeto de uso institucional do INOVALAB — IFSC Câmpus Continente.
