@@ -2,6 +2,12 @@
 
 PWA para visualização rápida da ocupação atual e futura dos espaços do INOVALAB.
 
+## Acesso
+
+- Cloudflare Workers: https://ocupacao-salas-inovalab.rogerio-bittencourt-1a9.workers.dev
+- O backend permanece no Google Apps Script e os calendários Google continuam sendo as fontes oficiais.
+- A publicação anterior no ChatGPT Sites permanece disponível e não é modificada por esta implantação.
+
 ## Público
 
 Equipe responsável pela gestão e operação dos ambientes.
@@ -33,6 +39,7 @@ pnpm install
 pnpm dev
 pnpm test
 pnpm run build
+pnpm run deploy
 ```
 
 ## Operação
